@@ -1,0 +1,6 @@
+【笔记】
+● 来自博客
+https://mp.weixin.qq.com/s/i1JARlgJjzXWyUio_NJSSQ
+● 官网（往下拉动有中文的官方文档）
+http://webmagic.io/
+● 项目介绍在README-zh.md
